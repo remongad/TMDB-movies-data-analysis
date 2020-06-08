@@ -3,7 +3,7 @@ this repository contains analysis for the the movies database movies data
 
 
 # Data
-you can find the required data to run this python notebook on the following Kaggle link
+you can find the required data to run this python notebook on the following Kaggle link <br>
 https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
 this analysis uses only the tmdb_5000_movies.csv file and there is no need to use the other data file
